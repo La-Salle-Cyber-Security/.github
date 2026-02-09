@@ -5,14 +5,12 @@
 
 ## 🧠 Who We Are
 
-The **La Salle Cyber Security Club** is a student-run community dedicated to understanding how modern systems **fail, break, and survive attacks**—and how to defend them.
+The **La Salle Cyber Security Club** is a club dedicated to understanding how modern systems **fail, break, and survive attacks**—and how to defend them.
 
 We explore cybersecurity from **both sides of the keyboard**:
 - 🛡️ Defensive security (blue team)
 - 🧨 Offensive security (red team)
 - 🧩 And everything in between
-
-No experience required—just curiosity and a willingness to learn.
 
 ---
 
